@@ -1,0 +1,72 @@
+{
+  "id": "2945373",
+  "name": "哔哩哔哩",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1302",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2165883",
+      "name": "哔哩哔哩",
+      "font_class": "bili",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4646395",
+      "name": "邮件",
+      "font_class": "youjian",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "6665569",
+      "name": "游戏",
+      "font_class": "airudiantubiaohuizhi-zhuanqu_youxi",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "8233805",
+      "name": "更多",
+      "font_class": "more",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "8977288",
+      "name": "会员购@2x",
+      "font_class": "huiyuangoux",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13876766",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "22678532",
+      "name": "风车",
+      "font_class": "a-fengche1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "24669386",
+      "name": "更多、分类",
+      "font_class": "a-gengduofenlei",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    }
+  ]
+}
